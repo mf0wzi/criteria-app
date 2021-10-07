@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss/screens";
+@import "select2/dist/css/select2.css";
+@import "tippy.js/dist/tippy.css";
+@import 'tippy.js/themes/light-border.css';
+@import '@fortawesome/fontawesome-free/css/fontawesome.css';
+@import 'sweetalert2/dist/sweetalert2.css';
+@import 'custom.css';
+@import './loader.css';
